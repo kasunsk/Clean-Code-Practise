@@ -1,1 +1,2 @@
-include "LearningTest", "ShapeSample"
+include 'modules:learningtest'
+include 'modules:shapesample'

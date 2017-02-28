@@ -17,5 +17,6 @@ public class RunProcedural {
         double area = geometry.area(circle);
 
         System.out.println(area);
+
     }
 }
